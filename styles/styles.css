@@ -114,7 +114,7 @@ body {
 
 .hero-section {
     background: linear-gradient(rgba(123, 44, 191, 0.85), rgba(58, 12, 163, 0.85)), 
-                url('../DATARION/images/5780869781501626561.jpg');
+                url('../images/5780869781501626561.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -406,7 +406,7 @@ footer:before {
 
 .about-section {
     background: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), 
-                url('../DATARION/images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
+                url('../images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -417,7 +417,7 @@ footer:before {
 
 .services-section {
     background: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), 
-                url('../DATARION/images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
+                url('../images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
     background-size: cover;
     background-position: center;
     padding: 80px 0;
@@ -427,7 +427,7 @@ footer:before {
 
 .testimonials-section {
     background: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), 
-                url('../DATARION/images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
+                url('../images/ChatGPT\ Image\ Apr\ 22\,\ 2025\,\ 04_09_21\ AM.png');
     background-size: cover;
     background-position: center;
     padding: 80px 0;
